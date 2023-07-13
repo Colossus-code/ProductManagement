@@ -1,0 +1,46 @@
+[
+  {
+    "IdProduct": 1,
+    "Translations": {
+      "ES": "Producto uno",
+      "EN": "Product one",
+      "FR": "Produit un"
+    }
+  },
+  {
+    "IdProduct": 2,
+    "Translations": {
+      "ES": "Producto dos",
+      "FR": "Produit deux"
+    }
+  },
+  {
+    "IdProduct": 3,
+    "Translations": {
+      "ES": "Producto tres",
+      "EN": "Product three",
+      "FR": "Produit trois"
+    }
+  },  
+  {
+    "IdProduct": 4,
+    "Translations": {
+      "ES": "Producto cuatro",
+      "EN": "Product fourth"
+    }
+  },
+  {
+    "IdProduct": 5,
+    "Translations": {
+      "FR": "Produit cinq"
+    }
+  },
+  {
+    "IdProduct": 6,
+    "Translations": {
+      "ES": "Producto seis",
+      "EN": "Product six",
+      "FR": "Oulala le baggete"
+    }
+  }
+]

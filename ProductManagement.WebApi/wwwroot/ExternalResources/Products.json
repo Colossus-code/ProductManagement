@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "Price": 12.34,
+    "Rate": 7,
+    "Continued": "yes"
+  },
+  {
+    "Id": 2,
+    "Price": 21.43,
+    "Rate": 8,
+    "Continued": "yes"
+  },
+  {
+    "Id": 5,
+    "Price": 23.45,
+    "Rate": 6,
+    "Continued": "no"
+  },
+  {
+    "Id": 3,
+    "Price": 19.34,
+    "Rate": 7,
+    "Continued": "yes"
+  },
+  {
+    "Id": 4,
+    "Price": 44.53,
+    "Rate": 8,
+    "Continued": "yes"
+  },
+  {
+    "Id": 6,
+    "Price": 1.45,
+    "Rate": 6,
+    "Continued": "yes"
+  }
+] 
